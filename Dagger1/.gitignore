@@ -1,0 +1,16 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+
+*.iml
+.idea
+
+/app/src/main/res/values/com_crashlytics_export_strings.xml
+crashlytics-build.properties
+
+*.apk
+
+/third_party/photoview/build
