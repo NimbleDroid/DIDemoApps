@@ -6,7 +6,7 @@ android {
     buildToolsVersion "23.0.2"
 
     defaultConfig {
-        applicationId "com.demo.dagger1"
+        applicationId "com.nimbledroid.demo.dagger1"
         minSdkVersion 15
         targetSdkVersion 23
         versionCode 1
