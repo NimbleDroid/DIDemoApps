@@ -23,3 +23,16 @@ Apps:  <br>
 Roboguice: https://www.nimbledroid.com/my_apps/com.demo.roboguice?p=2wJ4kscBlC7tqJ#Summary  <br>
 Dagger1:   https://www.nimbledroid.com/my_apps/com.demo.dagger1?p=2wJWWGUMF3h2Tw#Summary <br>
 Dagger2:   https://www.nimbledroid.com/my_apps/com.demo.dagger2?p=2wLjnntP4GXyZU#Summary <br>
+
+##### Details
+
+Roboguice: <br>
+!(Roboguice)[https://www.dropbox.com/s/1r6v19mtdrw527o/Screenshot%202016-01-27%2022.03.48.png?dl=1]
+
+<br><br>
+Dagger1: <br>
+!(Dagger1)[https://www.dropbox.com/s/1dlg0ggy7xumlmi/Screenshot%202016-01-27%2022.09.27.png?dl=1]
+
+<br><br>
+Dagger2: <br>
+!(Dagger2)[https://www.dropbox.com/s/zp9rik6zsc5nx6o/Screenshot%202016-01-27%2022.08.54.png?dl=1]
