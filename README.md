@@ -14,6 +14,11 @@ Roboguice -> ~347ms <br>
 Dagger1 -> ~71ms <br>
 Dagger2 -> ~62ms <br>  <br>
 
+Method count: <br>
+Roboguice -> 33,190 <br>
+Dagger1 -> 23,999 <br>
+Dagger2 -> 23,932 <br> <br>
+
 Apps:  <br>
 Roboguice: https://www.nimbledroid.com/my_apps/com.demo.roboguice?p=2wJ4kscBlC7tqJ#Summary  <br>
 Dagger1:   https://www.nimbledroid.com/my_apps/com.demo.dagger1?p=2wJWWGUMF3h2Tw#Summary <br>
