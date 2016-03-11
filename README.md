@@ -7,4 +7,4 @@ In total we do 5455 injections:
 - 40 Test* classes into MainActivity
 - 15 TestManager clases into MainActivity
 
-Demo repository for this post: [http://blog.nimbledroid.com/2016/03/07/performance-of-dependency-injection-libraries.html](http://blog.nimbledroid.com/2016/03/07/performance-of-dependency-injection-libraries.html)
+Performance results for these demo APKs: [http://blog.nimbledroid.com/2016/03/07/performance-of-dependency-injection-libraries.html](http://blog.nimbledroid.com/2016/03/07/performance-of-dependency-injection-libraries.html)
